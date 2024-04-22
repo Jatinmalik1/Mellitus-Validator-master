@@ -1,2 +1,2 @@
 # Mellitus-Validator
-https://mellitus-validator.web.app/
+- The projects live link will be available soon...
